@@ -8,7 +8,7 @@ body {
   font-family: 'Mate SC', serif;
   overflow: hidden;
   margin: 0;
-  background-image: url('image.jpg');
+  background-image: url('https://lh3.googleusercontent.com/proxy/ewbCd3IYxpQeh0MWVfn0T49yxMaCg6C6c-mc7s9Lq8yWBGSw8UwnizspeWLLqgJ1fLI2r6CpILsQjKq_Jq5YbtFOHTFH1mYS9r7OZNUmBAWduPOHsYdxzY-dLbnK8_uiAzSc6kxg-TI') no-repeat;
   height: 100vh;
   display: flex;
   justify-content: center;
